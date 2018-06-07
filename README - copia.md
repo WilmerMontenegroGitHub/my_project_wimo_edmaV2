@@ -2,7 +2,7 @@
 
 ## Codebeat
 [![codebeat badge](https://codebeat.co/badges/6bb2daeb-6b16-4d91-a123-8d05dd68a9e6)](https://codebeat.co/projects/github-com-scrodrig-python_ci_setup-master)
-
+[![codebeat badge](https://codebeat.co/badges/4c90fd09-849c-426c-8bc8-ce135b692f68)](https://codebeat.co/projects/github-com-wilmermontenegrogithub-my_project_wimo_edma-master)
 ## travisCi
 [![Build Status](https://travis-ci.org/scrodrig/python_ci_setup.svg?branch=master)](https://travis-ci.org/scrodrig/python_ci_setup)
 ## Codacy code
