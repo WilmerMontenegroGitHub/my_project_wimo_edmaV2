@@ -101,6 +101,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# ignore data directory
+data/
+/data
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
