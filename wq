@@ -1,0 +1,71 @@
+[33mcommit 2f52a6354352ead4126d60c582df736ea82e40d8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: edisonmanjarre <edison.manjarres@gmail.com>
+Date:   Sat Jun 9 08:49:52 2018 -0500
+
+    se realiza pruebas de carga con panda Please enter the commit message for your changes. Lines starting
+
+[33mcommit d2c8642d166e130e26ff3831e925d88cbe785d52[m
+Author: edisonmanjarre <edison.manjarres@gmail.com>
+Date:   Fri Jun 8 22:29:40 2018 -0500
+
+    prueba de clonar el proyect
+
+[33mcommit 0dffc039721751888d3845b706fa2ef6eb6d1c78[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SIS Montenegro Wilmer <wmontenegro@andinatel.int>
+Date:   Fri Jun 8 14:48:50 2018 -0500
+
+    testing coverage anda pandas
+
+[33mcommit 7f4a2daf77359836df20ece0ed4456e595cb8f2a[m
+Author: SIS Montenegro Wilmer <wmontenegro@andinatel.int>
+Date:   Fri Jun 8 14:36:03 2018 -0500
+
+    add coverage comment and manager_full_data.py file butt dont run
+
+[33mcommit d6e59ae150173c1842e38c78e64351a628e0f42a[m
+Author: SIS Montenegro Wilmer <wmontenegro@andinatel.int>
+Date:   Fri Jun 8 12:25:03 2018 -0500
+
+    add ignore data direcory in .gitignore and install coverage
+
+[33mcommit 9da5f07d49ad755093518def4a2091f2ec140dd5[m
+Author: SIS Montenegro Wilmer <wmontenegro@andinatel.int>
+Date:   Thu Jun 7 21:47:29 2018 -0500
+
+    add Synk badge
+
+[33mcommit 383b3d7ae375c7fda3cc7f58c909fdddf1dfa075[m
+Author: SIS Montenegro Wilmer <wmontenegro@andinatel.int>
+Date:   Thu Jun 7 15:20:10 2018 -0500
+
+    add coodacy-code badge
+
+[33mcommit 5395c39cfb2b1ca2f1de6f683a7adeba9609639c[m
+Author: SIS Montenegro Wilmer <wmontenegro@andinatel.int>
+Date:   Thu Jun 7 14:47:21 2018 -0500
+
+    add TRAVIS-CI badge
+
+[33mcommit d4963279d469715ca6dc14bda3028301da606272[m
+Author: SIS Montenegro Wilmer <wmontenegro@andinatel.int>
+Date:   Thu Jun 7 14:36:16 2018 -0500
+
+    add codebeat badge
+
+[33mcommit f5c0389ad0242bc2815c3edb81ea13eae38283d4[m
+Author: SIS Montenegro Wilmer <wmontenegro@andinatel.int>
+Date:   Thu Jun 7 13:47:27 2018 -0500
+
+    add req file
+
+[33mcommit ffe3cc2582429aef6578f68570bffec6c8895c5e[m
+Author: SIS Montenegro Wilmer <wmontenegro@andinatel.int>
+Date:   Thu Jun 7 11:07:01 2018 -0500
+
+    ADD codebeat comment
+
+[33mcommit 79a57ae5f1e6ca19046bec3e36d70656e16f0763[m
+Author: SIS Montenegro Wilmer <wmontenegro@andinatel.int>
+Date:   Thu Jun 7 01:57:27 2018 -0500
+
+    my first commit
