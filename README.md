@@ -14,6 +14,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6378f91985454e8280706bb00f247a54)](https://www.codacy.com/app/wijumont/my_project_wimo_edmaV2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=WilmerMontenegroGitHub/my_project_wimo_edmaV2&amp;utm_campaign=Badge_Grade)
 
 ## Codacy coverage
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6378f91985454e8280706bb00f247a54)](https://www.codacy.com/app/wijumont/my_project_wimo_edmaV2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=WilmerMontenegroGitHub/my_project_wimo_edmaV2&amp;utm_campaign=Badge_Grade)
 
 ## Snyk
 [![Known Vulnerabilities](https://snyk.io/test/github/WilmerMontenegroGitHub/my_project_wimo_edmaV2/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/WilmerMontenegroGitHub/my_project_wimo_edmaV2?targetFile=requirements.txt)
