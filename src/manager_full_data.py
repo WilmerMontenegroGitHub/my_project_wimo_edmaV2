@@ -1,6 +1,6 @@
 from pandas import pandas
 import os
-//prueba de update 
+
 def main():
     print ('hola')
     dirname = os.path.dirname(__file__)
