@@ -4,7 +4,7 @@ import os
 def main():
     print ('hola')
     dirname = os.path.dirname(__file__)
-    filename = os.path.join(dirname, '../data/FormatoDeAlmacenamiento.csv')
+    filename = os.path.join(dirname, '../data/FormatoDeAlmacenamiento1.csv')
     df = pandas.read_csv(filename, sep=';', header=None, na_values=" NaN")
 
     print (df)
