@@ -4,7 +4,11 @@ import numpy as np
 import csv
 
 # abriendo archivo .csv con la data recopilada
+<<<<<<< HEAD
 datos=pd.read_csv('../data/FormatoDeAlmacenamiento_enviadoEM.csv',sep=';',header=0)
+=======
+datos=pd.read_csv('../data/Ambiente_general.csv',sep=';',header=0)
+>>>>>>> 39bff5016658895072f61063ac3c2b64991ded9c
 # pasando la informacion del archivo .csv a un DataFrame
 df=pd.DataFrame(datos, columns=['fecha_hora','app_1'])
 # convirtiendo el campo fecha_hora a datetime para poder agrupar
