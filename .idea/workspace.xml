@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d156ca-e2cd-455c-a0b3-68b79f1ac690" name="Default" comment="" />
+    <list default="true" id="d4d156ca-e2cd-455c-a0b3-68b79f1ac690" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/manejo_escenarios_wup.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/manejo_escenarios_wup.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -294,16 +297,15 @@
       <updated>1528337849600</updated>
       <workItem from="1528337857079" duration="6702000" />
       <workItem from="1528387283095" duration="24362000" />
-      <workItem from="1529753037644" duration="1217000" />
+      <workItem from="1529753037644" duration="3159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32281000" />
+    <option name="totallyTimeSpent" value="34223000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
